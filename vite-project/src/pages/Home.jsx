@@ -9,9 +9,12 @@ function Home() {
     
   return (
 <>
+<div className="bg-amber-300 h-screen w-100">
 <Header/>
 <NavBar/>
 <Footer/>
+</div>
+
 
 
 

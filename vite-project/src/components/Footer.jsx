@@ -1,4 +1,4 @@
-
+import './component-css/main.css'; 
 function Footer() {
   return (
     <div>Footer</div>
